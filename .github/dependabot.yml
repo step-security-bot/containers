@@ -5,3 +5,348 @@ updates:
   schedule:
     interval: daily
   open-pull-requests-limit: 10
+
+- package-ecosystem: docker
+  directory: /11/jdk/alpine
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jdk/centos
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jdk/ubi/ubi9-minimal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jdk/ubuntu/focal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jdk/ubuntu/jammy
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jdk/windows/nanoserver-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jdk/windows/nanoserver-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jdk/windows/windowsservercore-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jdk/windows/windowsservercore-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jre/alpine
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jre/centos
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jre/ubi/ubi9-minimal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jre/ubuntu/focal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jre/ubuntu/jammy
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jre/windows/nanoserver-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jre/windows/nanoserver-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jre/windows/windowsservercore-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /11/jre/windows/windowsservercore-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jdk/alpine
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jdk/centos
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jdk/ubi/ubi9-minimal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jdk/ubuntu/focal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jdk/ubuntu/jammy
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jdk/windows/nanoserver-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jdk/windows/nanoserver-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jdk/windows/windowsservercore-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jdk/windows/windowsservercore-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jre/alpine
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jre/centos
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jre/ubi/ubi9-minimal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jre/ubuntu/focal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jre/ubuntu/jammy
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jre/windows/nanoserver-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jre/windows/nanoserver-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jre/windows/windowsservercore-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /17/jre/windows/windowsservercore-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jdk/alpine
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jdk/ubi/ubi9-minimal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jdk/ubuntu/jammy
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jdk/windows/nanoserver-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jdk/windows/nanoserver-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jdk/windows/windowsservercore-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jdk/windows/windowsservercore-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jre/alpine
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jre/ubi/ubi9-minimal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jre/ubuntu/jammy
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jre/windows/nanoserver-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jre/windows/nanoserver-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jre/windows/windowsservercore-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /21/jre/windows/windowsservercore-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jdk/alpine
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jdk/centos
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jdk/ubi/ubi9-minimal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jdk/ubuntu/focal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jdk/ubuntu/jammy
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jdk/windows/nanoserver-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jdk/windows/nanoserver-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jdk/windows/windowsservercore-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jdk/windows/windowsservercore-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jre/alpine
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jre/centos
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jre/ubi/ubi9-minimal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jre/ubuntu/focal
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jre/ubuntu/jammy
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jre/windows/nanoserver-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jre/windows/nanoserver-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jre/windows/windowsservercore-1809
+  schedule:
+    interval: daily
+
+- package-ecosystem: docker
+  directory: /8/jre/windows/windowsservercore-ltsc2022
+  schedule:
+    interval: daily
+
+- package-ecosystem: pip
+  directory: /
+  schedule:
+    interval: daily
